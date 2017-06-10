@@ -9,6 +9,8 @@ PhoneBattery is also **available for free** on the [App Store](https://itunes.ap
 
 I had the initial idea for this on the plane from WWDC back to Germany, polished it at home and here it is now. Please let me know what you think of it!
 
+**Notice**: this is the original version of PhoneBattery with Swift 1, watchOS 1 and iOS 8 code. This version is available under the MIT license, later versions are propritary software.
+
 ### Localization
 | Language |  Localizer                                      |
 |----------|------------------------------------------------ |
