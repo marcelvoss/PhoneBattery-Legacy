@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  PhoneBattery
+
+  Created by Marcel Voss on 19.06.15.
+  Copyright (c) 2015 Marcel Voss. All rights reserved.
+*/
+
+"CHARGING" = "Lädt";
+"REMAINING" = "Übrig";
+"UNKNOWN" = "Unbekannt";
+"FULL" = "Voll";
+
+"PHONE_BATTERY" = "Phone Battery";
+"HELP" = "Hilfe";
+"WELCOME" = "Willkommen";
+"RATE_ON_STORE" = "Im App Store bewerten";
+"WHO_MADE_THIS" = "Macher";
+"THANKS_DOWNLOADING" = "Danke für's herunterladen und verwenden von PhoneBattery! <3";
+"SUPPORT" = "Support";
+"GENERAL" = "Allgemein";
+"INTRODUCTION" = "Einführung";
+"JOB_TITLE" = "Code & Design";
+"SHARE_TITLE" = "PhoneBattery ist eine einfache Möglichkeit um den Akkustand deines iPhones auf deiner Apple Watch anzuzeigen!";
+
+"AVAILABLE_GITHUB" = "Vefügbar auf GitHub";
+"PB_TWITTER" = "Mehr auf Twitter";
+"MORE" = "Mehr";
+
+"BATTERY" = "Akku";
+
+"INTRODUCTION_GREETING" = "Hallo";
+"INTRODUCTION_DESCRIPTION_1" = "PhoneBattery ist ein simples Tool, das dir erlaubt den Akkustand deines iPhones auf deiner Apple Watch abzurufen.";
+"INTRODUCTION_DESCRIPTION_2" = "Ein einfaches Interface, damit Du so schnell wie möglich deinen Akkustand abrufen kannst.";
+"INTRODUCTION_DESCRIPTION_3" = "Bekomme noch schneller Zugriff auf deinen Akkustand mit einer Glance!";
+
+"CLOSE" = "Fertig";
+"SWIPE_UP" = "Hochwischen";

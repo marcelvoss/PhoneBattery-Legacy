@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  PhoneBattery
+
+  Created by Marcel Voss on 19.06.15.
+  Copyright (c) 2015 Marcel Voss. All rights reserved.
+*/
+
+"CHARGING" = "Cargando";
+"REMAINING" = "Restante";
+"UNKNOWN" = "Desconcido";
+"FULL" = "Llena";
+
+"PHONE_BATTERY" = "Batería";
+"HELP" = "Ayuda";
+"WELCOME" = "Bienvenido";
+"RATE_ON_STORE" = "Califícanos en el App Store";
+"WHO_MADE_THIS" = "Quién creó esto";
+"THANKS_DOWNLOADING" = "Gracias por descargar y utilizar PhoneBattery! <3";
+"SUPPORT" = "Soporte";
+"GENERAL" = "General";
+"INTRODUCTION" = "Introducción";
+"JOB_TITLE" = "Programación y Diseño";
+"SHARE_TITLE" = "PhoneBattery es una manera simple y fácil de revisar el estado de carga de la batería de tu teléfono móvil en tu Apple Watch!";
+
+"AVAILABLE_GITHUB" = "Disponible en GitHub";
+"MORE" = "Mas";
+
+"BATTERY" = "Batería";
+
+"INTRODUCTION_GREETING" = "Hola";
+"INTRODUCTION_DESCRIPTION_1" = "PhoneBattery es una forma rápida de revisar el estado de carga de tu teléfono móvil en tu Apple Watch. .";
+"INTRODUCTION_DESCRIPTION_2" = "Una interfáz rápida y simple para acceder al nivel de batería al instante.";
+"INTRODUCTION_DESCRIPTION_3" = "¡Configura nuestro Glance y accede aún mas rápido al nivel de batería!";
+
+"CLOSE" = "Listo";
+"SWIPE_UP" = "Desliza hacia arriba";

@@ -1,0 +1,42 @@
+/*
+ Localizable.strings
+ PhoneBattery
+ 
+ Created by Marcel Voss on 19.06.15.
+ Copyright (c) 2015 Marcel Voss. All rights reserved.
+ */
+
+"CHARGING" = "沖電中";
+
+/* Will be great if you can use "剩 60%", else "60% 剩" should be alright. */
+
+"REMAINING" = "剩";
+"UNKNOWN" = "不明";
+"FULL" = "滿";
+
+/* "电话" ＝ Phone; "电池" = Battery. It's a direct translation, ommitting "电话" will also be fine actually */
+"PHONE_BATTERY" = "電池";
+"HELP" = "幫助";
+"WELCOME" = "歡迎";
+"RATE_ON_STORE" = "App Store 評分";
+"WHO_MADE_THIS" = "程序制作人";
+"THANKS_DOWNLOADING" = "感謝下載支持 PhoneBattery! <3";
+"SUPPORT" = "技術幫助";
+"GENERAL" = "通用";
+"INTRODUCTION" = "介紹";
+"JOB_TITLE" = "編程與設計";
+"SHARE_TITLE" = "PhoneBattery 能讓你在 Apple Watch 簡單查看電池沖量!";
+
+"AVAILABLE_GITHUB" = "可在 GitHub 上";
+"MORE" = "更多";
+"PB_TWITTER" = "推特";
+
+"BATTERY" = "電池";
+
+"INTRODUCTION_GREETING" = "你好";
+"INTRODUCTION_DESCRIPTION_1" = "PhoneBattery 是個能讓你在 Apple Watch	上查看電池百分比的應用程序";
+"INTRODUCTION_DESCRIPTION_2" = "簡單實際的程序能讓你再短時間內知道電池的沖量";
+"INTRODUCTION_DESCRIPTION_3" = "有了 Glance，就能在更短時間內知電池沖量！";
+
+"CLOSE" = "完成";
+"SWIPE_UP" = "滑上";

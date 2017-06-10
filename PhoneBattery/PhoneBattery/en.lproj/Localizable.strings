@@ -1,0 +1,38 @@
+/* 
+  Localizable.strings
+  PhoneBattery
+
+  Created by Marcel Voss on 19.06.15.
+  Copyright (c) 2015 Marcel Voss. All rights reserved.
+*/
+
+"CHARGING" = "Charging";
+"REMAINING" = "Left";
+"UNKNOWN" = "Unknown";
+"FULL" = "Full";
+
+"PHONE_BATTERY" = "Phone Battery";
+"HELP" = "Help";
+"WELCOME" = "Welcome";
+"RATE_ON_STORE" = "Rate on the App Store";
+"WHO_MADE_THIS" = "Who made this";
+"THANKS_DOWNLOADING" = "Thanks for downloading and using PhoneBattery! <3";
+"SUPPORT" = "Support";
+"GENERAL" = "General";
+"INTRODUCTION" = "Introduction";
+"JOB_TITLE" = "Code & Design";
+"SHARE_TITLE" = "PhoneBattery is a simple way to check your phone's battery on your Apple Watch!";
+
+"AVAILABLE_GITHUB" = "Available on GitHub";
+"PB_TWITTER" = "More on Twitter";
+"MORE" = "More";
+
+"BATTERY" = "Battery";
+
+"INTRODUCTION_GREETING" = "Hello";
+"INTRODUCTION_DESCRIPTION_1" = "PhoneBattery is a simply utility that allows you to check your phone's battery level on your Apple Watch.";
+"INTRODUCTION_DESCRIPTION_2" = "A clean interface to access your battery level very quick.";
+"INTRODUCTION_DESCRIPTION_3" = "Get even quicker access to your battery level with a Glance!";
+
+"CLOSE" = "Done";
+"SWIPE_UP" = "Swipe up";

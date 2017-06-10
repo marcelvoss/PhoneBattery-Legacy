@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder.WatchKit.Storyboard" version="3.0" toolsVersion="7706" systemVersion="14D136" targetRuntime="watchKit" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="AgC-eL-Hgc">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7703"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBWatchKitPlugin" version="7701"/>
+    </dependencies>
+    <scenes>
+        <!--Interface Controller-->
+        <scene sceneID="aou-V4-d1y">
+            <objects>
+                <controller id="AgC-eL-Hgc" customClass="InterfaceController" customModule="PhoneBattery_WatchKit_App" customModuleProvider="target">
+                    <items>
+                        <group width="1" height="132" alignment="left" verticalAlignment="center" backgroundImage="frame-0" contentMode="scaleAspectFit" layout="vertical" id="XZE-wb-Qh9">
+                            <items>
+                                <label alignment="center" verticalAlignment="center" text="Label" id="VHD-5w-nIS">
+                                    <fontDescription key="font" type="system" pointSize="26"/>
+                                </label>
+                                <label height="20" alignment="center" verticalAlignment="center" text="Charging" id="8u1-cd-5eg"/>
+                            </items>
+                        </group>
+                    </items>
+                    <connections>
+                        <outlet property="groupItem" destination="XZE-wb-Qh9" id="zMQ-IV-tfh"/>
+                        <outlet property="percentageLabel" destination="VHD-5w-nIS" id="brb-Dm-bLF"/>
+                        <outlet property="statusLabel" destination="8u1-cd-5eg" id="yG4-Wf-jal"/>
+                    </connections>
+                </controller>
+            </objects>
+            <point key="canvasLocation" x="164" y="217"/>
+        </scene>
+        <!--Glance Interface Controller-->
+        <scene sceneID="rjY-Ar-IMT">
+            <objects>
+                <glanceController spacing="0.0" id="Sv0-Ai-Zie" customClass="GlanceController" customModule="PhoneBattery_WatchKit_App" customModuleProvider="target">
+                    <items>
+                        <group alignment="left" id="gv7-I2-MZq">
+                            <items>
+                                <label alignment="center" verticalAlignment="center" text="Phone Battery" id="WYK-D0-EBq"/>
+                            </items>
+                        </group>
+                        <group alignment="left" backgroundImage="frame-0" contentMode="scaleAspectFit" layout="vertical" id="eew-Gs-W6Y">
+                            <items>
+                                <label alignment="center" verticalAlignment="center" text="Label" id="Ctq-ON-Tcg">
+                                    <fontDescription key="font" type="system" pointSize="19"/>
+                                </label>
+                                <label alignment="center" verticalAlignment="center" text="Label" id="FTh-Ce-Fcv"/>
+                            </items>
+                        </group>
+                    </items>
+                    <edgeInsets key="margins" left="0.0" right="0.0" top="0.0" bottom="14"/>
+                    <connections>
+                        <outlet property="groupItem" destination="eew-Gs-W6Y" id="q4m-bj-Vor"/>
+                        <outlet property="percentageLabel" destination="Ctq-ON-Tcg" id="IsN-CF-OsG"/>
+                        <outlet property="statusLabel" destination="FTh-Ce-Fcv" id="EUu-ms-t6P"/>
+                        <outlet property="titleLabel" destination="WYK-D0-EBq" id="DMJ-Sv-xar"/>
+                    </connections>
+                </glanceController>
+            </objects>
+            <point key="canvasLocation" x="164" y="514"/>
+        </scene>
+    </scenes>
+</document>
